@@ -1,0 +1,107 @@
+export const MockedPosts = [
+  {
+    id: 1,
+    title: "Post 1",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+    images: [
+      "https://placehold.co/600x400?text=01",
+      "https://placehold.co/600x400?text=02",
+      "https://placehold.co/600x400?text=03",
+    ],
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "Admin",
+    isAdvertising: true,
+  },
+  {
+    id: 2,
+    title: "Post 2",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+
+    imageUrl: "https://placehold.co/600x400?text=Hello+World",
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "Admin",
+    isAdvertising: false,
+  },
+  {
+    id: 3,
+    title: "Post 3",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+
+    imageUrl: "https://placehold.co/600x400?text=Hello+World",
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "Admin",
+    isAdvertising: false,
+  },
+  {
+    id: 4,
+    title: "Post 4",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+
+    imageUrl: "https://placehold.co/600x400?text=Hello+World",
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "woman_user",
+    isAdvertising: false,
+  },
+  {
+    id: 5,
+    title: "Post 5",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+
+    imageUrl: "https://placehold.co/600x400?text=Hello+World",
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "man_user",
+    isAdvertising: false,
+  },
+  {
+    id: 6,
+    title: "Post 6",
+    subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    body: "Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+
+    imageUrl: "https://placehold.co/600x400?text=Hello+World",
+    createdAt: "2022-01-01T00:00:00.000Z",
+    isRestaurant: true,
+    location: {
+      address: "R Coronel Esdras Evilmerodach de Oliveira",
+      number: 393,
+      zipcode: "12043-430",
+    },
+    createdBy: "man_user",
+    isAdvertising: false,
+  },
+];

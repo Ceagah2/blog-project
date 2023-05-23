@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('/src/assets/fonts/Playfair_Display/PlayfairDisplay-Medium.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/src/assets/fonts/Open_Sans/OpenSans-Medium.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
